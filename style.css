@@ -1,0 +1,343 @@
+.first{
+    margin-top: -7px;
+    height: 41px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 5px 1px 6px grey;
+}
+.signlogin{
+    
+    width: 5%;
+    float: left;
+    margin-top: 0px;
+    height: 41px;
+}
+.hii{
+    margin-top: 11px;
+    text-align: right;
+}
+.topcat{
+    float: left;
+    margin-top: 0px;
+    height: 41px;
+    width:120px;
+    padding-left: 4px;
+    background-color: white;
+}
+.s{
+    float: left;
+    position: absolute;
+    margin-top: 0px;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.r{
+    position: absolute;
+    margin-top: 0px;
+    float: left;
+    padding-left: 67px;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.o{
+    float: left;
+    position: absolute;
+    padding-left: 48px;
+    padding-top: 9px;
+}
+.daily{
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 12px;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+.help{
+    position: absolute;
+    padding-left:4em;
+    padding-top: 12px;
+    color: black;
+     text-decoration: none;
+    font-size: 12px;
+    margin-left: 75px;
+    float: left;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+.sell{
+    position: absolute;
+    padding-left:55em;
+    padding-top: 12px;
+    color: black;
+     text-decoration: none;
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+.watch{
+    position: absolute;
+    padding-left:59em;
+    padding-top: 12px;
+    color: black;
+     text-decoration: none;
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+
+}
+.my{
+    position: absolute;
+    padding-left:67em;
+    padding-top: 12px;
+    color: black;
+     text-decoration: none;
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+.bell{
+    position: absolute;
+    padding-left:53em;
+    padding-top: 5px;
+    font-size: 17px;
+    height: 30px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+.cart{
+    
+    padding-left: 96em;
+    padding-top: 7px;
+    font-size: 10px;
+    
+}
+.search{
+    margin-top: 10px;
+    height: 75px;
+    width: 100%;
+    background-color: white;
+    float: left;
+    box-shadow: 0px 1px 1px grey;
+}
+.sec{
+    float: left;
+}
+.sec1{
+    width: 10em;
+    height: 75px;
+    background-color: white;
+}
+.sec2{
+    width: 4em;
+    height: 67px;
+    padding-left: 25px;
+    margin-top: 16px;
+    padding-top: 0em;
+    justify-content: center;
+}
+.sec21{
+    margin-top: 3em;
+    padding-top: 30px;
+}
+.sec3{
+    margin-top: 24px;
+    padding-left: 7px;
+}
+.eb{
+    padding-left: 40px;
+    height: 60px;
+    margin-top: 1px;
+    width: 7.5em;
+}
+
+.sec4{
+    padding-left: 9px;
+    width: 665px;
+    margin-top: 10px;
+    height: 40px;
+    border-style: solid;
+    font-size: 19px;
+    color: black;
+    margin-left: 17px;
+    float: left;
+}
+.input1{
+    float: left;
+    position: absolute;
+    width: 450px;
+    margin-top: 12px;
+    font-size: 17px;
+    border-style: none;
+    padding-left: -29px;
+    margin-left: 39px;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
+}
+.sec4-1{
+    position: absolute;
+    padding-left: 2px;
+    margin-top: 11px;
+    width: 30px;
+    float: left;
+}
+.allcat{
+    float: left;
+    position: absolute;
+    margin-left: 37em;
+    padding-left: 20px;
+    width: 172px;
+    height: 41px;
+}
+.sec5{
+    float: left;
+    background-color: blue;
+    height: 41px;
+    margin-left: 46em;
+    width: 185px;
+    justify-content: center;
+    margin-top: -43px;
+}
+.sear{
+    background-color: rgb(45, 8, 252);
+    height: 50px;
+    padding-top: -2px;
+    width: 187px;
+    justify-content: center;
+    margin-top: -5px;
+    color: white;
+}
+.sec6{
+    float: left;
+    background-color: white;
+    height: 50px;
+    margin-left: 74em;
+    width: 173px;
+    justify-content: center;
+    margin-top: -69px;
+}
+.alinks{
+    
+    margin-top: 5em;
+    height: 50px;
+    width: 100%;
+    
+}
+.alinksection{
+    float: left;
+    padding-left: 0px;
+    margin-left: 85px;
+    padding-top: 13px;
+    padding-right: 50px;
+    width: 1114px;
+    height: 32px;
+    
+}
+.home{
+    padding-left: 19px;
+    width: 50px;
+    color: black;
+    text-decoration: none;
+}
+.scrollimag{
+    float: left;
+    height: 440px;
+    width: 100%;
+}
+/* .text{
+    float: left;
+    height: 350px;
+    width: 35%;
+    background-color: rgb(162, 161, 179);
+}
+.large{
+    height: 350px;
+    background-color: rgb(48, 44, 109);
+} */
+.foot4{
+    float: left;
+    margin-top: 50px;
+}
+.firstfoot{
+    float: left;
+    padding-left: 45px;
+    width: 220px;
+    font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #767676;
+}
+.firstfoot1{
+    float: left;
+    text-decoration: none;
+    width: 200px;
+    margin-left: -34px;
+    
+    font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #767676 !important;;
+
+}
+ul{
+    list-style-type: none;
+}
+._2XmAi{
+    margin-left: -35px;
+    padding-left: -6px;
+    width: 200px;
+    font-size: 12px;
+    font-weight: lighter;
+    line-height: 23px;
+    color: #767676 !important;
+    text-decoration: none;
+    font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+}
+.fla{
+    margin-top: 248px;
+    padding-left: 14px;
+    padding-top: 6px;
+    margin-left: 68em;
+    height: 25px;
+    width: 160px;
+    border-style: solid;
+    border-color: aliceblue;
+    background-color: rgb(235, 230, 223);
+}
+.fl{
+    margin-top: -16px;
+    padding-left: 6px;
+    height: 24px;
+    width: 30px;
+    padding-right: 17px;
+    padding-top: 14px;
+    
+    position: absolute;
+}
+.sel{
+    position: absolute;
+    padding-top: 5px;
+    margin-left: 42px;
+    padding-left: -5px;
+    font-size: 12px;
+    border-style: none;
+    background-color: rgb(235, 230, 223);
+}
+.sel1{
+    background-color: rgb(235, 230, 223);
+}
+.fin{
+    padding-top: 400px;
+    height: 45px;
+    padding-left: 35px;
+    font-weight: lighter;
+    font-size: 12px;
+    color: #3f3e3e !important;
+}
+.lll{
+    text-decoration: underline;
+    color: #767676 !important;
+}
+.kkk{
+    margin-left: 29em;
+}
+.sss{
+    margin-left: 42em;
+}
